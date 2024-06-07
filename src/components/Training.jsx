@@ -10,7 +10,7 @@ const Training = () => {
   return (
     <div className='training'>
         <div className='left'>
-            <h1>Trainig</h1>
+            <h1>Training</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Adipisci molestiae rerum voluptas dignissimos saepe repellat, 
